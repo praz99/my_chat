@@ -1,3 +1,2 @@
-import "./application.pcss";
-
-document.body.insertAdjacentHTML("afterbegin", "Hello World")
+import "init";
+import "components/page/page";
